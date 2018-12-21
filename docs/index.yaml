@@ -2,18 +2,18 @@ apiVersion: v1
 entries:
   argus:
   - apiVersion: v1
-    created: 2018-12-21T14:44:06.560892+08:00
+    created: 2018-12-21T15:03:13.303095+08:00
     description: Automated Kubernetes monitoring
-    digest: b06e5b2545fd942c0bdaee7cb9870e4d97fbf8eee359417927c135085a0bf315
+    digest: c3a3c568926ff232558362517bf8c35ff5ca88c0c9367c1fcf34c4b87a20a623
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
     name: argus
     urls:
-    - https://howardchen-lm.github.com/k8s-helm-charts/argus-0.3.0.tgz
+    - https://howardchen-lm.github.io/k8s-helm-charts/argus-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2018-12-21T14:44:06.560604+08:00
+    created: 2018-12-21T15:03:13.302753+08:00
     description: Automated Kubernetes monitoring
     digest: 316c7c7d17085a65027667ef4a053062c3b2304b12f2f7e178b1f633baef73b0
     maintainers:
@@ -21,10 +21,10 @@ entries:
       name: Andrew Rynhard
     name: argus
     urls:
-    - https://howardchen-lm.github.com/k8s-helm-charts/argus-0.2.0.tgz
+    - https://howardchen-lm.github.io/k8s-helm-charts/argus-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-12-21T14:44:06.560191+08:00
+    created: 2018-12-21T15:03:13.302302+08:00
     description: Automated Kubernetes monitoring
     digest: b5e475acc633064f72e56d604bceb181920e194372807ed7e7384b4b75a8a8eb
     maintainers:
@@ -32,28 +32,28 @@ entries:
       name: Andrew Rynhard
     name: argus
     urls:
-    - https://howardchen-lm.github.com/k8s-helm-charts/argus-0.1.0.tgz
+    - https://howardchen-lm.github.io/k8s-helm-charts/argus-0.1.0.tgz
     version: 0.1.0
   collectorset-controller:
   - apiVersion: v1
-    created: 2018-12-21T14:44:06.561185+08:00
+    created: 2018-12-21T15:03:13.303368+08:00
     description: Automated collector management
-    digest: 9374ddcc76fecdcf0bf7e37b9ab69bae05bbb290c88ab95f30255e00ed3d22c9
+    digest: 8868971a11be34d5737e7e7980d17fbca77275174185b2aa0151f6f18b3cd05d
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
     name: collectorset-controller
     urls:
-    - https://howardchen-lm.github.com/k8s-helm-charts/collectorset-controller-0.1.0.tgz
+    - https://howardchen-lm.github.io/k8s-helm-charts/collectorset-controller-0.1.0.tgz
     version: 0.1.0
   releasemanager:
   - apiVersion: v1
-    created: 2018-12-21T14:44:06.561535+08:00
+    created: 2018-12-21T15:03:13.303668+08:00
     description: Release Manager provides a long-running application that will periodically
       poll the Tiller server installed in your cluster.
-    digest: fa7c2d773907a8e8566e062e7e14448edf08686b779eff75037d03583c6a3b94
+    digest: 16ffc414947cd87828732d377a2e34d1bc0c1e7e141cc3dcc968ee2f4952a64d
     name: releasemanager
     urls:
-    - https://howardchen-lm.github.com/k8s-helm-charts/releasemanager-0.1.0.tgz
+    - https://howardchen-lm.github.io/k8s-helm-charts/releasemanager-0.1.0.tgz
     version: 0.1.0
-generated: 2018-12-21T14:44:06.559598+08:00
+generated: 2018-12-21T15:03:13.301735+08:00
