@@ -1,4 +1,4 @@
-imageRepository: logicmonitor/argus
+imageRepository: howardch/k8s-argus
 imageTag: latest
 imagePullPolicy: Always
 disableAlerting: false
