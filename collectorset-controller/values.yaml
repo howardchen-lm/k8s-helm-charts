@@ -1,4 +1,4 @@
-imageRepository: howardch/k8s-collectorset-controller
+imageRepository: logicmonitor/collectorset-controller
 imageTag: latest
 imagePullPolicy: Always
 debug: false
