@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   argus:
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.680016+08:00
+    created: 2019-05-24T10:49:40.71143+08:00
     description: Automated Kubernetes monitoring
-    digest: ed1afc7a2db7d686860d63b1e4c337fe34567fa43a5fa3808c49551a937448fa
+    digest: 44568ac245379492367617a84e17df1c0ad6bc8366152c9eb1f2b4bbb187f0c6
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
@@ -13,7 +13,7 @@ entries:
     - https://howardchen-lm.github.io/k8s-helm-charts/docs/argus-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.679732+08:00
+    created: 2019-05-24T10:49:40.71061+08:00
     description: Automated Kubernetes monitoring
     digest: 1b69a545be0e7eb20930c0850f54ba5259a730eabf40e186970295730bbad598
     maintainers:
@@ -24,7 +24,7 @@ entries:
     - https://howardchen-lm.github.io/k8s-helm-charts/docs/argus-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.679398+08:00
+    created: 2019-05-24T10:49:40.710324+08:00
     description: Automated Kubernetes monitoring
     digest: beb0ab322d64994c7d3b917cc111a91d8e5663a164e0407e03c03578ebeb26c2
     maintainers:
@@ -35,7 +35,7 @@ entries:
     - https://howardchen-lm.github.io/k8s-helm-charts/docs/argus-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.679109+08:00
+    created: 2019-05-24T10:49:40.710046+08:00
     description: Automated Kubernetes monitoring
     digest: 316c7c7d17085a65027667ef4a053062c3b2304b12f2f7e178b1f633baef73b0
     maintainers:
@@ -46,7 +46,7 @@ entries:
     - https://howardchen-lm.github.io/k8s-helm-charts/docs/argus-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.678711+08:00
+    created: 2019-05-24T10:49:40.709682+08:00
     description: Automated Kubernetes monitoring
     digest: b5e475acc633064f72e56d604bceb181920e194372807ed7e7384b4b75a8a8eb
     maintainers:
@@ -58,9 +58,9 @@ entries:
     version: 0.1.0
   collectorset-controller:
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.680565+08:00
+    created: 2019-05-24T10:49:40.711968+08:00
     description: Automated collector management
-    digest: 817f9d48185fa486bff175c7256c79fc85800181efabf616c7182e7bb7a006cc
+    digest: 7553f9cab0693ed3f2d68c094e6128583213331920c0cf2e82afd7d0b2b278d6
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
@@ -69,7 +69,7 @@ entries:
     - https://howardchen-lm.github.io/k8s-helm-charts/docs/collectorset-controller-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.680284+08:00
+    created: 2019-05-24T10:49:40.711708+08:00
     description: Automated collector management
     digest: dbede7cccd299908e32909806e8aff8cb693c1687bbaae339eae556fc8a4b187
     maintainers:
@@ -81,12 +81,12 @@ entries:
     version: 0.1.0
   releasemanager:
   - apiVersion: v1
-    created: 2019-05-14T17:52:09.680878+08:00
+    created: 2019-05-24T10:49:40.712252+08:00
     description: Release Manager provides a long-running application that will periodically
       poll the Tiller server installed in your cluster.
-    digest: 689b21b9e7bddf8be8351c4a515ca888d93038c4182946b3f92364e93a9efc75
+    digest: dd468aaccbda51e5089d2448cffdfef3cd13a38df2a336d5562be7ab7a7edc9b
     name: releasemanager
     urls:
     - https://howardchen-lm.github.io/k8s-helm-charts/docs/releasemanager-0.1.0.tgz
     version: 0.1.0
-generated: 2019-05-14T17:52:09.678177+08:00
+generated: 2019-05-24T10:49:40.709168+08:00
