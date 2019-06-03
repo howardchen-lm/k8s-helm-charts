@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   argus:
   - apiVersion: v1
-    created: 2019-06-03T17:22:54.989662+08:00
+    created: 2019-06-03T17:29:15.07025+08:00
     description: Automated Kubernetes monitoring
-    digest: 0e0536c70c87af280e72f750e04251a0d2c4529b73c77aec031c5917666917f0
+    digest: cda2a4ca6c7ba396dd963105e2c4c29e1ca44353731f39f84ee48ed566ab433c
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
