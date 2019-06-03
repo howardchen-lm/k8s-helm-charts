@@ -2,16 +2,16 @@ apiVersion: v1
 entries:
   argus:
   - apiVersion: v1
-    created: 2019-05-24T10:49:40.71143+08:00
+    created: 2019-06-03T17:22:54.989662+08:00
     description: Automated Kubernetes monitoring
-    digest: 44568ac245379492367617a84e17df1c0ad6bc8366152c9eb1f2b4bbb187f0c6
+    digest: 0e0536c70c87af280e72f750e04251a0d2c4529b73c77aec031c5917666917f0
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
     name: argus
     urls:
-    - https://howardchen-lm.github.io/k8s-helm-charts/docs/argus-0.5.0.tgz
-    version: 0.5.0
+    - https://howardchen-lm.github.io/k8s-helm-charts/docs/argus-1.5.0.tgz
+    version: 1.5.0
   - apiVersion: v1
     created: 2019-05-24T10:49:40.71061+08:00
     description: Automated Kubernetes monitoring
